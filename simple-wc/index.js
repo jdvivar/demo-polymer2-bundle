@@ -1,0 +1,1 @@
+import './simple-wc.html'

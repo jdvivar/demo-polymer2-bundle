@@ -4,7 +4,8 @@
   "scripts": {
     "build:wc": "cd ./simple-wc && npm i && npm run build",
     "build:web": "cd ./web && npm i",
-    "build": "npm run build:wc && npm run build:web"
+    "build": "npm run build:wc && npm run build:web",
+    "start": "npm run build && cd ./web && npm start"
   },
   "author": "Daniel Vivar",
   "license": "MIT"

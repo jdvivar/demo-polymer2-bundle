@@ -1,8 +1,5 @@
 {
   "name": "simple-wc-demo",
-  "dependencies": {
-    "simple-wc": "../simple-wc/build/es5-bundled"
-  },
   "devDependencies": {
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.1.0"
   }
